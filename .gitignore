@@ -1,0 +1,32 @@
+# SQL Server specific files
+*.mdf
+*.ldf
+*.ndf
+
+# SSMS and IDE files
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.tmp
+*.bak
+*.temp
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE specific
+*.idea/
+
+# SQL profiler and trace files
+*.trc
+*.xel
+*.xem
+
+# Windows specific
+$RECYCLE.BIN/
